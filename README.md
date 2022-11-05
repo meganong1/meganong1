@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Megan 👋
 
 <!--
 - 🌱 I’m currently learning Python and R
